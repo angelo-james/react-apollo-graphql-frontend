@@ -16,7 +16,7 @@ class App extends Component {
           <h1
             style={{ width: 300, display: 'block', margin: 'auto' }}
           >
-            Hello World
+            Space X
           </h1>
           <Launches />
         </div>
